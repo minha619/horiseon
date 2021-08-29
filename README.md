@@ -10,8 +10,5 @@ A website that offers services as a Marketing agency.
 ## Website
 https://minha619.github.io/horiseon/
 
-## Screenshot
-<img src="./assets/images/horiseon_screenshot.jpg>
-
 ## Contribution
 Made with ❤️ by Horiseon
